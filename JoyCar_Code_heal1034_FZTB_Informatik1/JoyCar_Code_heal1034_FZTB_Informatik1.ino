@@ -1,4 +1,10 @@
 /*
+ * Datum: 15.12.2021
+ * Projekt: ein Robot Car für das Informatik 1 Labor, per Blynk App steuerbar 
+ * Hardware: ESP32 Dev Mode, 4x DC Motoren, 2x L298N Schrittmotor Treibermodul, 2x 9V und 4x 1.5V Batterien
+ */
+
+/*
  * Blynk spezifische Einstellungen
  */
 #define BLYNK_TEMPLATE_ID "XXXXXXXXXXXX"                      // Authentifizierungscode
